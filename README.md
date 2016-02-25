@@ -16,6 +16,6 @@ plugins source code in here:
 
 5. EnderDragon-Fight
 
-6. 
+6. End-Generator
 
 7. 
