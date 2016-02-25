@@ -51,3 +51,5 @@ plugins source code in here:
 22. MicroBattles
 
 23. AnimalHunt
+
+24. HotPotato
