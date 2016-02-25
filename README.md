@@ -97,3 +97,5 @@ plugins source code in here:
 45. SAM-BETA
 
 45. CrashBang
+
+46. RussianRoulette
