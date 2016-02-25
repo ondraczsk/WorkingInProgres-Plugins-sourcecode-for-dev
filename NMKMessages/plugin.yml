@@ -1,1 +1,9 @@
-
+name: NMKMessages
+main: NMKTeam\NMKMessages\MainClass
+version: 1.0.6
+api: 1.4.0
+description: Test plugin
+commands:
+  challenge:
+    description: Send challenge.
+    permission: challenge.cmd
