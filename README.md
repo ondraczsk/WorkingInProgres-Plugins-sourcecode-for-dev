@@ -18,4 +18,12 @@ plugins source code in here:
 
 6. End-Generator
 
-7. 
+7. Block-Hunt
+
+8.
+
+9.
+
+10.
+
+11.
