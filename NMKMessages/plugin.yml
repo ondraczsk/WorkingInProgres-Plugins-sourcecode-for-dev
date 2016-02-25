@@ -1,9 +1,9 @@
 name: NMKMessages
 main: NMKTeam\NMKMessages\MainClass
-version: 1.0.6
+version: 1.0.0
 api: 1.4.0
-description: Test plugin
+description: Send preset messages
 commands:
-  challenge:
-    description: Send challenge.
-    permission: challenge.cmd
+  NMKM:
+    description: Send Message.
+    permission: nmkm.cmd
