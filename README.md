@@ -60,7 +60,7 @@ plugins source code in here:
 
 27. Pokemon-MP
 
-28.
+28. GuitarHero
 
 29.
 
