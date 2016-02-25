@@ -20,10 +20,10 @@ plugins source code in here:
 
 7. Block-Hunt
 
-8.
+ 8.
 
-9.
+ 9.
 
-10.
+ 10.
 
-11.
+ 11.
