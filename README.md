@@ -23,3 +23,5 @@ plugins source code in here:
 8. SkyBlockPE
 
 9. MysteryCrates
+
+10. Lobby-Generator
