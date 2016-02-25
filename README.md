@@ -31,3 +31,5 @@ plugins source code in here:
 12. Universe-Minigame
 
 13. Mineshaft-Generator
+
+14. Boss-Generator
