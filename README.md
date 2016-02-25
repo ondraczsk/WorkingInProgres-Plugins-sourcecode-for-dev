@@ -79,3 +79,5 @@ plugins source code in here:
 36. SoundEffects
 
 37. Random-Phars
+
+38. BukkitMine
