@@ -89,3 +89,5 @@ plugins source code in here:
 41. HungerGames-0.13.x-0.14
 
 42. Plugins-used-in-EndKingdom
+
+43. Clans-BETA
