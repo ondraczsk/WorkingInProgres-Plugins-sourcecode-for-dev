@@ -49,3 +49,5 @@ plugins source code in here:
 21. Lobby-Cmds
 
 22. MicroBattles
+
+23. AnimalHunt
