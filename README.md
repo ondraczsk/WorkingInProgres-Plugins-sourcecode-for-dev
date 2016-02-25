@@ -37,3 +37,5 @@ plugins source code in here:
 15. BlazingRodGun
 
 16. KnockBack
+
+17. SimonSays
