@@ -99,3 +99,7 @@ plugins source code in here:
 45. CrashBang
 
 46. RussianRoulette
+
+47. MCFTWARS
+
+48. MineBros
