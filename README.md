@@ -6,7 +6,7 @@ This is for the dev only to clean up our response page
 
 plugins source code in here:
 
-1. MagicCarpet        8. SkyBlockPE
+1. MagicCarpet        
 
 2. MCG76 HG v2
 
@@ -20,3 +20,4 @@ plugins source code in here:
 
 7. Block-Hunt
 
+8. SkyBlockPE
