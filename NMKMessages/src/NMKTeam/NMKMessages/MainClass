@@ -25,6 +25,7 @@ class MainClass extends PluginBase implements Listener
 	}
  	public function onCommand(CommandSender $sender, Command $command, $label, array $args)
  	{
+ 	   if (count($args) == 1) {
   		$name = $sender->getName();
              	if ($command->getName() == "NMKM") 
                 {
@@ -51,6 +52,7 @@ class MainClass extends PluginBase implements Listener
                         	$this->getServer()->getLogger()->info("Sorry NMKMessages is not enabled. Check your config.");
                         }
                 }
+ 	    }
  	}
 
 }
