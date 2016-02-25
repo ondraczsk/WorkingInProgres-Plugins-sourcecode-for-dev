@@ -77,3 +77,5 @@ plugins source code in here:
 35. Spleef-0.13.x-0.14.x
 
 36. SoundEffects
+
+37. Random-Phars
