@@ -67,3 +67,5 @@ plugins source code in here:
 30. Radio
 
 31. FineSG
+
+32. FineChest
