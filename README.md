@@ -91,3 +91,5 @@ plugins source code in here:
 42. Plugins-used-in-EndKingdom
 
 43. Clans-BETA
+
+44. NetherAntiSpam
