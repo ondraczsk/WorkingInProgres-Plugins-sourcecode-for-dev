@@ -93,3 +93,5 @@ plugins source code in here:
 43. Clans-BETA
 
 44. NetherAntiSpam
+
+45. SAM-BETA
