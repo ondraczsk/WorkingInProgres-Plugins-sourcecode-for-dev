@@ -33,3 +33,5 @@ plugins source code in here:
 13. Mineshaft-Generator
 
 14. Boss-Generator
+
+15. BlazingRodGun
