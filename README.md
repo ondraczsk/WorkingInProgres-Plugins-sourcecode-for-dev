@@ -75,3 +75,5 @@ plugins source code in here:
 34. DrTrayaurus
 
 35. Spleef-0.13.x-0.14.x
+
+36. SoundEffects
