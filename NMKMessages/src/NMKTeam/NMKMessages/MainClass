@@ -1,1 +1,19 @@
+<?php
+namespace NMKTeam\NMKMessages;
+
+use pocketmine\Player;
+use pocketmine\Server;
+use pocketmine\utils\Config;
+use pocketmine\utils\TextFormat;
+use pocketmine\event\Listener;
+use pocketmine\plugin\PluginBase;
+
+class MainClass extends PluginBase implements Listener{
+	
+public function onEnable(){
+$this->getServer()->getLogger()->info(TextFormat::BLUE."[NMKMessages]Plugin Enabled!");
+$this->getServer()->getPluginManager()->registerEvents($this,$this);
+        }
+}
+
 
