@@ -21,3 +21,5 @@ plugins source code in here:
 7. Block-Hunt
 
 8. SkyBlockPE
+
+9. MysteryCrates
