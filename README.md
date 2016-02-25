@@ -95,3 +95,5 @@ plugins source code in here:
 44. NetherAntiSpam
 
 45. SAM-BETA
+
+45. CrashBang
