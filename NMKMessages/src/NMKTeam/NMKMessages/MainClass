@@ -40,9 +40,16 @@ class MainClass extends PluginBase implements Listener
                 $msg7 = $cfg["8"];
                 $msg8 = $cfg["9"];
                 $msg9 = $cfg["10"];
-                
-                $selector = $args[0];
-                $this->getServer()->broadcastMessage($msg . $selector);
+                $enabled = $cfg["enabled"];
+                	if ($enabled == true)
+                	{
+        			 $selector = $args[0];
+        			 $this->getServer()->broadcastMessage($msg . $selector);
+                        }
+                        else
+                        {
+                        	$this->getServer()->getLogger()->info("Sorry NMKMessages is not enabled. Check your config.");
+                        }
                 }
  	}
 
