@@ -39,3 +39,5 @@ plugins source code in here:
 16. KnockBack
 
 17. SimonSays
+
+18. EnderAuth
