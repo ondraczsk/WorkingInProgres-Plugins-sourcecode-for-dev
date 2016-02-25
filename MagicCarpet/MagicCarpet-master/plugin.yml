@@ -1,0 +1,6 @@
+name: magic_carpet
+version: 0.1
+api: 1.13.0
+main: NetherManiacsKingdom/MagicCarpet
+author: DavidJBrockway
+description: A Magic Carpet plugin for PM
