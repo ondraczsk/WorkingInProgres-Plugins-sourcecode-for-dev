@@ -8,7 +8,7 @@ plugins source code in here:
 
 1. MagicCarpet
 
-2. 
+2. MCG76 HG v2
 
 3. 
 
