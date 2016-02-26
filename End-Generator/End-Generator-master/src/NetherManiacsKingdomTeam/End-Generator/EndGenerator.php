@@ -78,7 +78,7 @@ class EndGenerator extends Generator{
 		$chunk = $this->level->getChunk($chunkX, $chunkZ);
 		for($x = 0; $x < 16; ++$x){
 			for($z = 0; $z < 16; ++$z){
-				$biome = Biome::getBiome(Biome::HELL);
+				$biome = Biome::getBiome(Biome::NORMALBIOME);
 				$chunk->setBiomeId($x, $z, $biome->getId());
 				$color = [0, 0, 0];
 				$bColor = $biome->getColor();
