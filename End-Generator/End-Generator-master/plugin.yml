@@ -1,5 +1,5 @@
 name: End-Generator
-main: End-Generator/End-Generator-master/src/NetherManiacsKingdomTeam/End-Generato\Main
+main: End-Generator-master/src/NetherManiacsKingdomTeam/End-Generator\Main
 version: "1.0.0"
 api: [1.13.0]
 author: NetherManiacsKingdomTeam
