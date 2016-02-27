@@ -1,6 +1,6 @@
 <?php
 
-namespace NetherManiacsKingdom\End-Generator;
+namespace End-Generator-master/src/NetherManiacsKingdomTeam/End-Generator;
 
 use pocketmine\block\Block;
 use pocketmine\block\Block\EndStone;
