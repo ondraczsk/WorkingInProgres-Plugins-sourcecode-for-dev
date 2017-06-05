@@ -7,7 +7,7 @@ use mcg76\hungergames\main\HungerGamesPlugIn;
 use mcg76\hungergames\utils\LevelUtil;
 use pocketmine\scheduler\PluginTask;
 use mcg76\hungergames\level\GameLevelModel;
-use pocketmine/level/Level;
+use pocketmine\level\Level;
 use mcg76\hungergames\level\GamePlayer;
 use mcg76\hungergames\portal\MapPortal;
 use mcg76\hungergames\utils\MagicUtil;
